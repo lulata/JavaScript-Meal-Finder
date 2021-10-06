@@ -1,3 +1,3 @@
 # JavaScript-Meal-Finder
 
-![Preview](meal.png?raw=true)
+![Preview](meal.PNG?raw=true)
